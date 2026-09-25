@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-courtenay",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "City of Courtenay GIS — Courtenay, BC (Canada) open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-8d59d2cccaa4d4b39037f00b9d56795e6cfdc9acfa0ab42a6508b071dd554e58",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-8ec53d37d763a617a2af491e3f8aa2ace874d349971045440371ea3349936230",
+    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
   }
 }
